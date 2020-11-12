@@ -2,33 +2,28 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class vPlayerController : MonoBehaviour
+public class PLayerController : MonoBehaviour
 {
-
-    public float moveSpeed = 9f;
+    public float moveSpeed = 5f;
     public Transform movePoint;
-    // Start is called before the first frame update
+
+    //Start is called before the first frame
     void Start()
     {
         movePoint.parent = null;
     }
 
-    // Update is called once per frame
+    // Update is called oncce per frame
     void Update()
     {
-        transform.position = Vector3.MoveTowards(transform.position, movepoint.position, moveSpeed* Time.deltaTime);
-
-        if(Vector3.Distance(transform.position, movePoint.position) <= .05f)
+        if(Mathf.abs(Input.GetAxisRaw("Horizontal")) == 1f)
         {
-            if( Mathf.abs(Input.GetAxisRaw("Horizontal")) == 1f)
-            {
-            movePoint.position += new Vectore3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
-            }
+            movePoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
+        }
 
-            if( Mathf.abs(Input.GetAxisRaw("Vertical")) == 1f)
-            {
-            movePoint.position += new Vectore3(0f, Input.GetAxisRaw("Vertical"), 0f, 0f);
-            }
+        if (Mathf.abs(Input.GetAxisRaw("Vertical")) == 1f)
+        {
+            movePoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
         }
     }
 }
