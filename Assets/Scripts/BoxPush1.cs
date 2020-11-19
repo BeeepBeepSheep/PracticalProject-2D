@@ -30,8 +30,7 @@ public class BoxPush1 : MonoBehaviour
                     boxMovePoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
                 }
             }
-
-            if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f)
+            else (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f)
             {
                 if (!Physics2D.OverlapCircle(boxMovePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), .5f, whatStopsMovement))
                 {
