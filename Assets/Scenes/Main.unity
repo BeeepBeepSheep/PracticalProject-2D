@@ -7024,13 +7024,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1438270796}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e85d27ac4f219a4884da34f9e4468f2, type: 3}
+  m_Script: {fileID: 11500000, guid: cd4a9feebc510b241bda70491f823c48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  boxMovePoint: {fileID: 1987514923}
+  boxMovePoint: {fileID: 0}
   whatStopsMovement:
-    m_Bits: 256
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!4 &1438270801 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4065483869489223169, guid: 7b721b526fda6ce4b92dd1d4aa5efeb1,

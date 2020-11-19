@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoxPush : MonoBehaviour
+public class BoxPush1 : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public Transform boxMovePoint;
@@ -15,9 +15,9 @@ public class BoxPush : MonoBehaviour
         boxMovePoint.parent = null;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("Hit before");
         transform.position = Vector3.MoveTowards(transform.position, boxMovePoint.position, moveSpeed * Time.deltaTime);
 
         if (Vector3.Distance(transform.position, boxMovePoint.position) <= .05f)
@@ -39,5 +39,7 @@ public class BoxPush : MonoBehaviour
                 }
             }
         }
+        Debug.Log("Hit after");
+
     }
 }
