@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoxPushHorizontal : MonoBehaviour
+public class BoxPushVertical : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public Transform boxMovePoint;
