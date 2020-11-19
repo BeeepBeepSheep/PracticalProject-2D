@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public Transform movePoint;
 
     public LayerMask whatStopsMovement;
+    public LayerMask stopPlayerInBox;
 
     // Start is called before the first frame update
     void Start()
@@ -39,5 +40,9 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        //Debug.Log("test");
     }
 }

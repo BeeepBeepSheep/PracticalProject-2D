@@ -11,16 +11,15 @@ public class BoxPushVertical : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("box detected and should move horizontal");
+        Debug.Log("box detected and should move virtical");
 
         if (Vector3.Distance(transform.position, boxMovePoint.position) <= .05f)
         {
-            if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f)
+            if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f); //else if make it so box doesent go diagonally
             {
-                //checking if theres colliders
-                if (!Physics2D.OverlapCircle(boxMovePoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f), .5f, WhatStopsBoxMovement))
+                if (!Physics2D.OverlapCircle(boxMovePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), .5f, WhatStopsBoxMovement))
                 {
-                    boxMovePoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
+                    boxMovePoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
                 }
             }
         }
