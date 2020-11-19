@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - StopMovement
+  - StopPlayer
   - Player
-  - StopBoxMovement
+  - StopBox
   - Infront of player
-  - StopBox2
+  - 
   - 
   - 
   - 
