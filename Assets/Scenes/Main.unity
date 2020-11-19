@@ -7314,6 +7314,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box
       objectReference: {fileID: 0}
+    - target: {fileID: 4065483869489223294, guid: 7b721b526fda6ce4b92dd1d4aa5efeb1,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4065483869489223294, guid: 7b721b526fda6ce4b92dd1d4aa5efeb1,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7b721b526fda6ce4b92dd1d4aa5efeb1, type: 3}
 --- !u!1001 &4275936808654684804
