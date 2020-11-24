@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoxPush1 : MonoBehaviour
+public class BoxPush2 : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public Transform boxMovePoint;
@@ -14,11 +14,10 @@ public class BoxPush1 : MonoBehaviour
     {
         boxMovePoint.parent = null;
     }
-
     private void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("box detected and should move");
-        transform.position = Vector3.MoveTowards(transform.position, boxMovePoint.position, moveSpeed * Time.deltaTime);   
+        transform.position = Vector3.MoveTowards(transform.position, boxMovePoint.position, moveSpeed * Time.deltaTime);
     }
 }
 
