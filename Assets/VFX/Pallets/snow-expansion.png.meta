@@ -875,6 +875,9 @@ TextureImporter:
   - first:
       213: -711775398659219298
     second: snow-expansion_290
+  - first:
+      213: -6799880143225225063
+    second: snow-expansion_291
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
