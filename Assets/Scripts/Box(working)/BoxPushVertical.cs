@@ -11,7 +11,7 @@ public class BoxPushVertical : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("box detected and should move virtical");
+        //Debug.Log("box detected and should move virtical");
 
         if (Vector3.Distance(transform.position, boxMovePoint.position) <= .05f)
         {

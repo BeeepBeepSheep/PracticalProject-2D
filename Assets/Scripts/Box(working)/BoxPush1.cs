@@ -17,7 +17,7 @@ public class BoxPush1 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("box detected and should move");
+        //Debug.Log("box detected and should move");
         transform.position = Vector3.MoveTowards(transform.position, boxMovePoint.position, moveSpeed * Time.deltaTime);   
     }
 }

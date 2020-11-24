@@ -11,7 +11,7 @@ public class BoxPushHorizontal : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("box detected and should move horizontal");
+        //Debug.Log("box detected and should move horizontal");
 
         if (Vector3.Distance(transform.position, boxMovePoint.position) <= .05f)
         {
