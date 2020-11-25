@@ -1,7 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManegement;
+using UnityEngine.SceneManagement;
+
 public class SceneTransition : MonoBehaviour
 {
     private int nextSceneToLoad;
@@ -10,8 +11,9 @@ public class SceneTransition : MonoBehaviour
         nextSceneToLoad = SceneManager.GetActiveScene().buildIndex + 1;
     }
 
-    void OnTriggerEnter2D(Colldier2D collision)
+    private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.Log("Transittion");
         SceneManager.LoadScene(nextSceneToLoad);
     }
 }
