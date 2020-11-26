@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneTransition : MonoBehaviour
+public class LoadNext : MonoBehaviour
 {
     private int nextSceneToLoad;
     void Start()
