@@ -13,7 +13,10 @@ public class SceneTransition : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Transittion");
-        SceneManager.LoadScene(nextSceneToLoad);
+        if (other.gameObject.tag == "BoxMain")
+        {
+            Debug.Log("Transittion");
+            SceneManager.LoadScene(nextSceneToLoad);
+        }
     }
 }
