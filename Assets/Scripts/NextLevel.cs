@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LoadNext : MonoBehaviour
+public class NextLevel : MonoBehaviour
 {
     private int nextSceneToLoad;
     void Start()
