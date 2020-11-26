@@ -209,6 +209,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Box (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1263698734194505339, guid: a54f21620f7674b4d84589b42fb37ad5,
+        type: 3}
+      propertyPath: m_TagString
+      value: BoxMain
+      objectReference: {fileID: 0}
     - target: {fileID: 1263698734957955868, guid: a54f21620f7674b4d84589b42fb37ad5,
         type: 3}
       propertyPath: m_IsTrigger
