@@ -41,11 +41,11 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
-        myAnim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal")); 
+
+        myAnim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
         myAnim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
+
     }
-    //private void OnTriggerEnter2D(Collider2D other)
-    //{
-    //    Debug.Log("test");
-    //}
 }
+
+
