@@ -44,8 +44,18 @@ public class PlayerController : MonoBehaviour
 
         myAnim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
         myAnim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
-
     }
+
+    
+    private void OnTriggerEnter2D(Collider2D other)
+     {
+         if (other.gameObject.tag == "BoxMain")
+         {
+             myAnim.SetFloat("MoveBoxX", Input.GetAxisRaw("Horizontal"));
+             myAnim.SetFloat("MoveBoxY", Input.GetAxisRaw("Vertical"));
+             Debug.Log("Push animation");
+         }
+     }
 }
 
 

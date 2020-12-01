@@ -96,5 +96,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00ef6517843fe134aa51513bbae78dd3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 0}
+  Player: {fileID: 2526116778841593531, guid: a8f1de27a92ba5e44b5470685abc4d90, type: 3}
   dampTime: 0.4
