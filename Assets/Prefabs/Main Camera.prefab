@@ -97,4 +97,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Player: {fileID: 2526116778841593531, guid: a8f1de27a92ba5e44b5470685abc4d90, type: 3}
-  dampTime: 0.4
+  dampTime: 0.1
