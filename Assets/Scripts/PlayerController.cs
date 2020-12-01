@@ -6,6 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public Transform movePoint;
+    private Animator myAnim;
 
     public LayerMask whatStopsMovement;
 
@@ -13,6 +14,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         movePoint.parent = null;
+        myAnim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -39,6 +41,8 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
+        myAnim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal")); 
+        myAnim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
     }
     //private void OnTriggerEnter2D(Collider2D other)
     //{
