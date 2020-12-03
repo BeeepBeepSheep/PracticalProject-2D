@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 223d416584e91a643acfe2bc26db6580
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1603291472181913768
+    second: New Piskel (3)_0
+  - first:
+      213: 1727701513693895514
+    second: New Piskel (3)_1
+  - first:
+      213: 6885142304389756897
+    second: New Piskel (3)_2
+  - first:
+      213: -3920763251539160592
+    second: New Piskel (3)_3
+  - first:
+      213: -1694524838324611193
+    second: New Piskel (3)_4
+  - first:
+      213: 1066949510724028421
+    second: New Piskel (3)_5
+  - first:
+      213: 1400832260309603970
+    second: New Piskel (3)_6
+  - first:
+      213: -3942639207439087887
+    second: New Piskel (3)_7
+  - first:
+      213: 7292352570814449456
+    second: New Piskel (3)_8
+  - first:
+      213: 3216314079718932397
+    second: New Piskel (3)_9
+  - first:
+      213: 4705158949798537548
+    second: New Piskel (3)_10
+  - first:
+      213: -2509685191469888353
+    second: New Piskel (3)_11
+  - first:
+      213: 6942525342464617483
+    second: New Piskel (3)_12
+  - first:
+      213: -3659493323820276336
+    second: New Piskel (3)_13
+  - first:
+      213: 702206443410204585
+    second: New Piskel (3)_14
+  - first:
+      213: 9222707523938422812
+    second: New Piskel (3)_15
+  - first:
+      213: 2658404951463688252
+    second: New Piskel (3)_16
+  - first:
+      213: 9184963723152095937
+    second: New Piskel (3)_17
+  - first:
+      213: 5411920179350977520
+    second: New Piskel (3)_18
+  - first:
+      213: 5476623043803674104
+    second: New Piskel (3)_19
+  - first:
+      213: 321221438869468671
+    second: New Piskel (3)_20
+  - first:
+      213: 7263185034436150802
+    second: New Piskel (3)_21
+  - first:
+      213: 8273113990174138510
+    second: New Piskel (3)_22
+  - first:
+      213: 7517864958564795224
+    second: New Piskel (3)_23
+  - first:
+      213: -125359028056656472
+    second: New Piskel (3)_24
+  - first:
+      213: -6498427020002830663
+    second: New Piskel (3)_25
+  - first:
+      213: -7371811541700199279
+    second: New Piskel (3)_26
+  - first:
+      213: 2266459707410486220
+    second: New Piskel (3)_27
+  - first:
+      213: 8407189039156601488
+    second: New Piskel (3)_28
+  - first:
+      213: 3528695613361042382
+    second: New Piskel (3)_29
+  - first:
+      213: 8687754614174295438
+    second: New Piskel (3)_30
+  - first:
+      213: 4592701024927587178
+    second: New Piskel (3)_31
+  - first:
+      213: 2877337737631203738
+    second: New Piskel (3)_32
+  - first:
+      213: -8261805286375191711
+    second: New Piskel (3)_33
+  - first:
+      213: -4651529725173764245
+    second: New Piskel (3)_34
+  - first:
+      213: 4042552564069533957
+    second: New Piskel (3)_35
+  - first:
+      213: -8771828450168294511
+    second: New Piskel (3)_36
+  - first:
+      213: -8519872127871813708
+    second: New Piskel (3)_37
+  - first:
+      213: -7034777891602693507
+    second: New Piskel (3)_38
+  - first:
+      213: -400156712105877728
+    second: New Piskel (3)_39
+  - first:
+      213: 1980329097700406685
+    second: New Piskel (3)_40
+  - first:
+      213: -5031644347520033106
+    second: New Piskel (3)_41
+  - first:
+      213: -3040649887063313229
+    second: New Piskel (3)_42
+  - first:
+      213: 7373226384293612610
+    second: New Piskel (3)_43
+  - first:
+      213: 7815144041202325932
+    second: New Piskel (3)_44
+  - first:
+      213: 8935966706132399046
+    second: New Piskel (3)_45
+  - first:
+      213: 6544304005325338788
+    second: New Piskel (3)_46
+  - first:
+      213: 4266348169943519902
+    second: New Piskel (3)_47
+  - first:
+      213: -631671988718169080
+    second: New Piskel (3)_48
+  - first:
+      213: 8197920183178460161
+    second: New Piskel (3)_49
+  - first:
+      213: 6133635535076815475
+    second: New Piskel (3)_50
+  - first:
+      213: 1562769311201783299
+    second: New Piskel (3)_51
+  - first:
+      213: -8075090266815245678
+    second: New Piskel (3)_52
+  - first:
+      213: -230450554487058743
+    second: New Piskel (3)_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Piskel (3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8571f2196e6ffb9e0800000000000000
+      internalID: -1603291472181913768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (3)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b11a97f570af710800000000000000
+      internalID: 1727701513693895514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
