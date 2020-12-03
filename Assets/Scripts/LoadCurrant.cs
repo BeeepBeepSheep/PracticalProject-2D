@@ -13,5 +13,9 @@ public class LoadCurrant : MonoBehaviour
             Debug.Log("Reloaded");
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
+        }
     }
 }

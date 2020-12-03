@@ -15,7 +15,7 @@ public class BoxPushVertical : MonoBehaviour
 
         if (Vector3.Distance(transform.position, boxMovePoint.position) <= .05f)
         {
-            if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f); //else if make it so box doesent go diagonally
+            if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f) //else if make it so box doesent go diagonally
             {
                 if (!Physics2D.OverlapCircle(boxMovePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), .5f, WhatStopsBoxMovement))
                 {
