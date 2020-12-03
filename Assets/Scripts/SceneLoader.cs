@@ -38,6 +38,20 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("Level7");
     }
+    public void LoadLevel8()
+    {
+        SceneManager.LoadScene("Level8");
+    }
+    public void LoadLevel9()
+    {
+        SceneManager.LoadScene("Level9");
+    }
+    //public void LoadLevel()
+    //{
+    //    SceneManager.LoadScene("Level");
+    //}
+
+
     //-----------------------------------------------
     public void QuitGame()
     {

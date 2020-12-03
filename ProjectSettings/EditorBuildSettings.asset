@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: ea328d93a3d3963429c7e3c3ce6a3917
@@ -31,18 +28,15 @@ EditorBuildSettings:
     guid: 39739ee59e6ac49418fd71bc979a6056
   - enabled: 1
     path: Assets/Scenes/Level7.unity
-    guid: 47947d1664f722247a141cf8afb71090
-  - enabled: 1
-    path: Assets/Scenes/Tutorial.unity
     guid: 1e2cc3d78aaa26d498fdbc26723d7daf
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/AAA.unity
+    path: Assets/Scenes/Level8.unity
     guid: 68de28c9cae88194982090bed1729472
   - enabled: 1
-    path: Assets/Scenes/AAAA.unity
+    path: Assets/Scenes/Level9.unity
+    guid: 47947d1664f722247a141cf8afb71090
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
     guid: 6be452d7e6d22ba43a7ffc77a746bf72
   - enabled: 1
     path: Assets/Scenes/Broken.unity
