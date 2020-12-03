@@ -18,4 +18,8 @@ public class LoadCurrant : MonoBehaviour
             SceneManager.LoadScene("Menu");
         }
     }
+    public void reload()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
 }
