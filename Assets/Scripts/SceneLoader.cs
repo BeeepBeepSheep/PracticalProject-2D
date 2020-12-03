@@ -4,10 +4,41 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour
 {
-    public void LoadGame()
+    public void LoadGame1()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+    //---------------------------------------
+
+    public void LoadLevel1()
+    {
+        SceneManager.LoadScene("Level1");
+    }
+    public void LoadLevel2()
+    {
+        SceneManager.LoadScene("Level2");
+    }
+    public void LoadLevel3()
+    {
+        SceneManager.LoadScene("Level3");
+    }
+    public void LoadLevel4()
+    {
+        SceneManager.LoadScene("Level4");
+    }
+    public void LoadLevel5()
+    {
+        SceneManager.LoadScene("Level5");
+    }
+    public void LoadLevel6()
+    {
+        SceneManager.LoadScene("Level6");
+    }
+    public void LoadLevel7()
+    {
+        SceneManager.LoadScene("Level7");
+    }
+    //-----------------------------------------------
     public void QuitGame()
     {
         Application.Quit();
