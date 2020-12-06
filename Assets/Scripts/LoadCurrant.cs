@@ -22,4 +22,8 @@ public class LoadCurrant : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+    public void menu()
+    {
+        SceneManager.LoadScene("Menu");
+    }
 }
