@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     public float moveSpeed = 5f;
     public Transform movePoint;
     private Animator myAnim;
+    private AudioSource footStep;
 
     public LayerMask whatStopsMovement;
 
@@ -15,6 +16,7 @@ public class PlayerController : MonoBehaviour
     {
         movePoint.parent = null;
         myAnim = GetComponent<Animator>();
+        footStep = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -47,15 +49,7 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    //private void OnTriggerEnter2D(Collider2D other)
-    //{
-    //    if (other.gameObject.tag == "BoxMain" | "Box")
-    //    {
-    //        myAnim.SetFloat("MoveBoxX", Input.GetAxisRaw("Horizontal"));
-    //        myAnim.SetFloat("MoveBoxY", Input.GetAxisRaw("Vertical"));
-    //        Debug.Log("Push animation");
-    //    }
-    //}
+
 }
 
 
