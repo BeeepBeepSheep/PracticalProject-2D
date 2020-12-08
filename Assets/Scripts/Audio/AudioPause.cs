@@ -25,13 +25,11 @@ public class AudioPause : MonoBehaviour
             AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Play();
         }
 
-     
-    }
-    //public void LevelClick()
-    //{
 
-    //}
+    }
+
 
 }
 
 
+ 
