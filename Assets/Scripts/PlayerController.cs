@@ -48,8 +48,6 @@ public class PlayerController : MonoBehaviour
         myAnim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
     }
 
-
-
 }
 
 
