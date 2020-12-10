@@ -20,16 +20,23 @@ public class AudioPause : MonoBehaviour
         {
             AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Pause();
         }
-        else //(SceneManager.GetActiveScene().buildIndex != 1)
+
+        else
         {
             AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Play();
         }
 
 
+
+
     }
-
-
+    void Update()
+    {
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Pause();
+        }
+    }
 }
 
 
- 
