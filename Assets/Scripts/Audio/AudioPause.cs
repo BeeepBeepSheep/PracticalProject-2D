@@ -16,7 +16,7 @@ public class AudioPause : MonoBehaviour
     }
     public void isSceneMenu()
     {
-        if (SceneManager.GetActiveScene().buildIndex == 1)
+        if (SceneManager.GetActiveScene().buildIndex == 0)
         {
             AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Pause();
         }

@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
-
+        // animation
         myAnim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
         myAnim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
     }

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1602860902796991987}
   - component: {fileID: 3212247167596640205}
   - component: {fileID: 8758771887963774567}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: PauseButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   - component: {fileID: 1196248011140655831}
   - component: {fileID: 1339713294652731222}
   - component: {fileID: 7713316811794015137}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -318,7 +318,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 775982976945915232}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -350,7 +350,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3517233337674041589}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -385,7 +385,7 @@ GameObject:
   - component: {fileID: 4748475949296865552}
   - component: {fileID: 706785105843562196}
   - component: {fileID: 8111489704105793595}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -515,7 +515,7 @@ GameObject:
   - component: {fileID: 6312448646283257712}
   - component: {fileID: 8602684725867211258}
   - component: {fileID: 6554397747725875791}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -588,7 +588,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6363474244122082526}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -622,7 +622,7 @@ GameObject:
   - component: {fileID: 4440851408981868853}
   - component: {fileID: 3513515335245561822}
   - component: {fileID: 5417932887179595003}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -697,7 +697,7 @@ GameObject:
   - component: {fileID: 5860901817413585105}
   - component: {fileID: 5606196148920267770}
   - component: {fileID: 3233740966440136011}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -854,7 +854,7 @@ GameObject:
   - component: {fileID: 5732474983290192965}
   - component: {fileID: 315088511741282101}
   - component: {fileID: 6824290058595019097}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: PlayerPushInfo (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -930,7 +930,7 @@ GameObject:
   - component: {fileID: 5419702859945392121}
   - component: {fileID: 383061112507274201}
   - component: {fileID: 2068276442604772199}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: TipsOff
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1081,7 +1081,7 @@ GameObject:
   - component: {fileID: 284507102973196440}
   - component: {fileID: 7475636108639261697}
   - component: {fileID: 8127953202860356326}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1238,7 +1238,7 @@ GameObject:
   - component: {fileID: 1420190423815067922}
   - component: {fileID: 2947026819788805523}
   - component: {fileID: 7942309941751116819}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1310,7 +1310,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1925076262862203129}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1344,7 +1344,7 @@ GameObject:
   - component: {fileID: 6137127993338454265}
   - component: {fileID: 5045068921901167823}
   - component: {fileID: 6000741214661465198}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1500,7 +1500,7 @@ GameObject:
   - component: {fileID: 6853318852487073942}
   - component: {fileID: 5410203007184012685}
   - component: {fileID: 8495619056703410383}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: CouleredBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1574,7 +1574,7 @@ GameObject:
   - component: {fileID: 272699590142107668}
   - component: {fileID: 3079892136434391731}
   - component: {fileID: 5128454605950564027}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: PlayerPushInfo (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1648,7 +1648,7 @@ GameObject:
   - component: {fileID: 8034280437110030455}
   - component: {fileID: 5073956428555552944}
   - component: {fileID: 3876789356797305431}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1802,7 +1802,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8282834359888962295}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Tips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1842,7 +1842,7 @@ GameObject:
   - component: {fileID: 4683549514774380670}
   - component: {fileID: 9141218524900678040}
   - component: {fileID: 6076147212515914294}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1916,7 +1916,7 @@ GameObject:
   - component: {fileID: 7240878149464005330}
   - component: {fileID: 1945632893562169626}
   - component: {fileID: 7947356409883058077}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2072,7 +2072,7 @@ GameObject:
   - component: {fileID: 6955937498975817575}
   - component: {fileID: 3802594760606399485}
   - component: {fileID: 701885319631814749}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2147,7 +2147,7 @@ GameObject:
   - component: {fileID: 7022163065948220443}
   - component: {fileID: 1365202854075914297}
   - component: {fileID: 5144412864835979837}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2304,7 +2304,7 @@ GameObject:
   - component: {fileID: 3167024946867122292}
   - component: {fileID: 7070959327297134691}
   - component: {fileID: 6611448473316150599}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2380,7 +2380,7 @@ GameObject:
   - component: {fileID: 8411446022742604968}
   - component: {fileID: 2697094447674941990}
   - component: {fileID: 1184235140893414799}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Resume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2531,7 +2531,7 @@ GameObject:
   - component: {fileID: 9079500589442525177}
   - component: {fileID: 1379550789591769550}
   - component: {fileID: 3688281702006768921}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: PlayerPushInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2606,7 +2606,7 @@ GameObject:
   - component: {fileID: 3587939057358353404}
   - component: {fileID: 599408523980981564}
   - component: {fileID: 1570268221776420918}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2681,7 +2681,7 @@ GameObject:
   - component: {fileID: 2279128167774552651}
   - component: {fileID: 3087064229174368563}
   - component: {fileID: 7908644698016491994}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2756,7 +2756,7 @@ GameObject:
   - component: {fileID: 1329678117699597590}
   - component: {fileID: 2416546650889950457}
   - component: {fileID: 2896717309219247518}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2912,7 +2912,7 @@ GameObject:
   - component: {fileID: 3206266942422525858}
   - component: {fileID: 4595091213351383359}
   - component: {fileID: 135292792917106365}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3066,7 +3066,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8114649124525570363}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3100,7 +3100,7 @@ GameObject:
   - component: {fileID: 4660191984702208051}
   - component: {fileID: 4495149425656162982}
   - component: {fileID: 4222214084800379799}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: PlayerPushInfo (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3174,7 +3174,7 @@ GameObject:
   - component: {fileID: 5527997749385513480}
   - component: {fileID: 8254496185806718045}
   - component: {fileID: 988044897019178541}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Sprite (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3249,7 +3249,7 @@ GameObject:
   - component: {fileID: 5600638207543134550}
   - component: {fileID: 6483379976662220951}
   - component: {fileID: 170091758154841321}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: CouleredBox (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3321,7 +3321,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4119961556326111163}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3357,7 +3357,7 @@ GameObject:
   - component: {fileID: 8497653129216859302}
   - component: {fileID: 6393804627602475205}
   - component: {fileID: 5717581513675983734}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: MenuButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3485,7 +3485,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2265585021177709272}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3521,7 +3521,7 @@ GameObject:
   - component: {fileID: 1815664049727190967}
   - component: {fileID: 1103452823344550114}
   - component: {fileID: 1451222499736356880}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3594,7 +3594,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 24776465126256373}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: TipsScreen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3627,7 +3627,7 @@ GameObject:
   - component: {fileID: 7106399847544625720}
   - component: {fileID: 7106399847544625718}
   - component: {fileID: 7106399847544625719}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: PauseMenu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3706,7 +3706,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7106399847948856092}
   - component: {fileID: 1174116077200139221}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Pause
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3752,7 +3752,7 @@ GameObject:
   - component: {fileID: 7106399849347654500}
   - component: {fileID: 7106399849347654501}
   - component: {fileID: 7106399849347654502}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3851,7 +3851,7 @@ GameObject:
   - component: {fileID: 4140378854744718779}
   - component: {fileID: 5565095075589323623}
   - component: {fileID: 7242836458909332844}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: Text (TMP) (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4006,7 +4006,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4804648473804889004}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4042,7 +4042,7 @@ GameObject:
   - component: {fileID: 5603824340843574607}
   - component: {fileID: 3135787191463863496}
   - component: {fileID: 5586513170017291667}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: Sprite (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4118,7 +4118,7 @@ GameObject:
   - component: {fileID: 8135683259606815658}
   - component: {fileID: 6189772706372674693}
   - component: {fileID: 391747627559235296}
-  m_Layer: 5
+  m_Layer: 13
   m_Name: TipsOn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
