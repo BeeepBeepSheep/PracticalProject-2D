@@ -26,12 +26,9 @@ public class AudioPause : MonoBehaviour
             AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Play();
         }
 
-
-
-
     }
     void Update()
-    {
+    { // escape pauses music
         if (Input.GetKey(KeyCode.Escape))
         {
             AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Pause();
