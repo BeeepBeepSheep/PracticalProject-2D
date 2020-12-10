@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 public class AudioPause : MonoBehaviour
 {
 
-
     public void OnClickPause()
     {
         AudioBetweenScenes.Instance.gameObject.GetComponent<AudioSource>().Pause();
@@ -27,6 +26,8 @@ public class AudioPause : MonoBehaviour
         }
 
     }
+
+
     void Update()
     { // escape pauses music
         if (Input.GetKey(KeyCode.Escape))
