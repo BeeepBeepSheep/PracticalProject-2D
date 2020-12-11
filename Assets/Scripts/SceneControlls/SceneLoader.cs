@@ -62,10 +62,10 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("Level13");
     }
-    //public void LoadLevel()
-    //{
-    //    SceneManager.LoadScene("Level");
-    //}
+    public void LoadLevel()
+    {
+        SceneManager.LoadScene("Level");
+    }
 
 
     //-----------------------------------------------
